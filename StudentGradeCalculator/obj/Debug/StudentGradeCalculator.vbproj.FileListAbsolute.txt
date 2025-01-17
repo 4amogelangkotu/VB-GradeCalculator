@@ -1,0 +1,12 @@
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.exe.config
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.exe
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.pdb
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\bin\Debug\StudentGradeCalculator.xml
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.vbproj.AssemblyReference.cache
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.GradeCalculator.resources
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.Resources.resources
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.vbproj.GenerateResource.cache
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.exe
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.xml
+C:\Users\User 4\source\repos\StudentGradeCalculator\StudentGradeCalculator\obj\Debug\StudentGradeCalculator.pdb
